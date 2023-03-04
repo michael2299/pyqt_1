@@ -1,1 +1,1 @@
-# this is a demo pyqt programe
+# this is a demo pyqt program
